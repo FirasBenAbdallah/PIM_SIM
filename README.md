@@ -1,8 +1,5 @@
 <p align="center">
-  <a href="http://www.esprit.tn/">
-    <img src="https://ibb.co/MgDYXqY" alt="Logo" width=500 height=500>
-  </a>
-
+  <a href="http://www.esprit.tn/"><img src="https://i.ibb.co/3TyDJtD/Education-ADO.png" alt="Education-ADO" border="0"></a>
   <h3 align="center">We Present to you: Learnly</h3>
 
   <p align="center">
